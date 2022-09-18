@@ -1,0 +1,17 @@
+#h2_size {
+    font-size: 20px !important; 
+}
+
+#about-content {
+    text-align: justify;
+    font-style: normal !important;
+}
+
+#resume-content {
+    text-align: justify;
+}
+
+#btn {
+    color: rgb(44, 44, 44);
+    font-weight: 600;
+}
